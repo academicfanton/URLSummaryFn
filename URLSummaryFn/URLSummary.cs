@@ -1,4 +1,15 @@
-using System;
+// PURPOSE: 
+//     API version using Azure functions
+//     Test to explore the content and format of the information about a URL
+//     embedded in the OpenGraph protocol(http://ogp.me/)
+// 
+// (C) 2021 Fernando Anton Alonso
+// fernando.anton.academic@gmail.com
+// 
+// This program is free software; you can redistribute it and/or modify
+// it under the terms of the GNU General Public License version 3 as
+// published by the Free Software Foundation.using System;
+
 using System.IO;
 using System.Net;
 using System.Net.Http;
